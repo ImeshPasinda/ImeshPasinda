@@ -103,7 +103,7 @@
 </a>  
 
 
-<a href="https://github.com/aastha12/Loan_Prediction">
+<a href="https://github.com/Imexn19/Kids-Game-Arena">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=imexn19&repo=Kids-Game-Arena&theme=onedark" />
 </a> 
