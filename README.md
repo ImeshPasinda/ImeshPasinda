@@ -4,11 +4,10 @@
 
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineer" /></a>
-</p>
 	
-	<a href="mailto:Imeshpasinda@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)">
-  </a> 
+</p>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravishkadulshan1@gmail.com)
+
 	<a href="https://www.facebook.com/RealImexn19" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white">
   </a>  
@@ -19,9 +18,11 @@
    <a href="https://stackoverflow.com/users/17079543/imesh-pasinda" target="_blank">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a>  
+	
  <a href="https://www.hackerrank.com/aasthajha123/hackos" target="_blank">
     <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
   </a>
+	
 
 - 👋 Hi, I’m Imesh
 - 💼 I'm a Undergraduate Student
