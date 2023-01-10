@@ -31,6 +31,7 @@
 
 - 👋 Hi, I’m Imesh
 - 💼 I'm a Undergraduate Student
+- 📱 UI/UX Designer
 - 💬 Talk to me about freelancing opportunities in software engineering
 - 👯 I’m looking to collaborate on frontend & backend software engineering projects
 
