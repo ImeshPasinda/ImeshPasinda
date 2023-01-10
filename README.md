@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ImeshPasinda
+- 👋 Hi, I’m @Imexn19
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
