@@ -23,7 +23,7 @@
     <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a>  
 	
- <a href="https://www.hackerrank.com/aasthajha123/hackos" target="_blank">
+ <a href="#" target="_blank">
     <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
   </a>
 	
@@ -48,7 +48,7 @@
 	
 ## 📚 Frameworks and Libraries:
 
-
+![Nodejs](https://img.shields.io/badge/nodejs-%215732.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
