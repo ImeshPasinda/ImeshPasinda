@@ -99,11 +99,11 @@
 ## Popular Projects
 <a href="https://github.com/Imexn19/Event-Planning-System">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&repo=MDX-Food-Safety-Hackathon&theme=onedark" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=imexn19&repo=Event-Planning-System&theme=onedark" />
 </a>  
 
 
 <a href="https://github.com/aastha12/Loan_Prediction">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&repo=Loan_Prediction&theme=onedark" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=imexn19&repo=Kids-Game-Arena&theme=onedark" />
 </a> 
