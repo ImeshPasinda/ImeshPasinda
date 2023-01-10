@@ -5,7 +5,7 @@
 <p>
 	
 	
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineer" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineer;I'm+a+UI/UX+Designer" /></a>
 	
 </p>
    <a href="mailto:Imeshpasinda@gmail.com" target="_blank">
