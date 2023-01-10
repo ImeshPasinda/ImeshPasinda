@@ -100,7 +100,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/Imexn19"><img alt="Imesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imexn19&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/ImeshPasinda"><img alt="Imesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imeshpasinda&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  
@@ -112,13 +112,13 @@
 <br/>
 
 ## Popular Projects
-<a href="https://github.com/Imexn19/Event-Planning-System">
+<a href="https://github.com/ImeshPasinda/Event-Planning-System">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=imexn19&repo=Event-Planning-System&theme=onedark" />
 </a>  
 
 
-<a href="https://github.com/Imexn19/Kids-Game-Arena">
+<a href="https://github.com/ImeshPasinda/Kids-Game-Arena">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=imexn19&repo=Kids-Game-Arena&theme=onedark" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Imeshpasinda&repo=Kids-Game-Arena&theme=onedark" />
 </a> 
