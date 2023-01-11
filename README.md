@@ -5,7 +5,7 @@
 <p>
 	
 	
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineer;I'm+a+UI/UX+Designer" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineer;I'm+a+UI/UX+Designer;I'm+a+Video+Editor" /></a>
 	
 </p>
    <a href="mailto:Imeshpasinda@gmail.com" target="_blank">
@@ -32,6 +32,7 @@
 - 👋 Hi, I’m Imesh
 - 💼 I'm a Undergraduate Student
 - 📱 UI/UX Designer
+- 🎞️ Video Editor
 - 💬 Talk to me about freelancing opportunities in software engineering
 - 👯 I’m looking to collaborate on frontend & backend software engineering projects
 
@@ -43,7 +44,7 @@
 ![InDesign](https://img.shields.io/badge/Adobe%20Indesign-FF3366.svg?style=for-the-badge&logo=adobeindesign&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=adobeIllustrator&logoColor=white)
 	
-## 📱 Video Editing Tools:	
+## 🎞️ Video Editing Tools:	
 
 ![PremierePro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=adobePremierePro&logoColor=white)
 	
