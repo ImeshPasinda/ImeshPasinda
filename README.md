@@ -37,6 +37,16 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 	
+## 📱 UI/UX Design Tools:	
+
+![Photoshop](https://img.shields.io/badge/Adobe%20photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![InDesign](https://img.shields.io/badge/Adobe%20Indesign-FF3366.svg?style=for-the-badge&logo=adobeindesign&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=adobeIllustrator&logoColor=white)
+	
+## 📱 Video Editing Tools:	
+
+![PremierePro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=adobePremierePro&logoColor=white)
+	
 ## 📋 Languages:
 	
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -83,6 +93,8 @@
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![NetBeans](https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=ApacheNetBeansIDE&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=AndroidStudio&logoColor=white)
 <br/>
 
 
