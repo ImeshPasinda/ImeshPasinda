@@ -41,7 +41,7 @@
 ## 📱 UI/UX Design Tools:	
 
 ![Photoshop](https://img.shields.io/badge/Adobe%20photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![InDesign](https://img.shields.io/badge/Adobe%20Indesign-FF3366.svg?style=for-the-badge&logo=adobeindesign&logoColor=white)
+![XD](https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=adobexd&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=adobeIllustrator&logoColor=white)
 	
 ## 🎞️ Video Editing Tools:	
