@@ -131,5 +131,10 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Imeshpasinda&repo=HungryMeals&theme=onedark" />
 </a> 
+
+<a href="https://github.com/ImeshPasinda/Event-Planning-System">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=ImeshPasinda&repo=Event-Planning-System&theme=onedark" />
+</a>  
 	
 	
