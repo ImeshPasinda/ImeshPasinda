@@ -30,6 +30,7 @@
 
 
 - 👋 Hi, I’m Imesh
+- 💼 I'm an Undergraduate Student at SLIIT	
 - 📱 UI/UX Designer
 - 🎞️ Video Editor
 - 💬 Talk to me about freelancing opportunities in software engineering
