@@ -30,7 +30,7 @@
 
 <br></br>
 - 👋 Hi, I’m Imesh
-- 💻 I'm Intern Software Engineerir at Mitra Innovation
+- 💻 I'm Intern Software Engineer at Mitra Innovation
 - 💼 I'm an Undergraduate Student at SLIIT	
 - 📱 UI/UX Designer
 - 🎞️ Video Editor
