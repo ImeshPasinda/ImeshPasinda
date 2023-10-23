@@ -132,14 +132,14 @@
 ## Popular Projects
 
 
-<a href="https://github.com/Imeshpasinda/HungryMeals">
+<a href="https://github.com/SriPass/SriPass-WEB-APP">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Imeshpasinda&repo=HungryMeals&theme=onedark" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Imeshpasinda&repo=SriPass-WEB-APP&theme=onedark" />
 </a> 
 
-<a href="https://github.com/ImeshPasinda/EmpowerMe">
+<a href="https://github.com/ImeshPasinda/Tourzee">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=ImeshPasinda&repo=EmpowerMe&theme=onedark" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=ImeshPasinda&repo=Tourzee&theme=onedark" />
 </a>  
 	
 	
