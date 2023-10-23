@@ -30,6 +30,7 @@
 
 
 - 👋 Hi, I’m Imesh
+- 💻 I'm currently working at Mitra Innovation
 - 💼 I'm an Undergraduate Student at SLIIT	
 - 📱 UI/UX Designer
 - 🎞️ Video Editor
