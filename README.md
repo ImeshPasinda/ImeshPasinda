@@ -71,8 +71,7 @@
 ![Reactjs](https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/nodejs-%215732.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-.NET-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
 
 ## 💾 Databases:
@@ -83,7 +82,10 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%231572B6.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Oracle-CC2927?style=for-the-badge&logo=oracle&logoColor=white)
 
+## ☁️ Cloud Platforms:
 
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ## 🗄️ Servers:
 
