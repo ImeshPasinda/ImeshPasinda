@@ -45,6 +45,7 @@
 ![Photoshop](https://img.shields.io/badge/Adobe%20photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![XD](https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=adobexd&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=adobeIllustrator&logoColor=white)
+![Figma Project](https://img.shields.io/badge/Figma-A259FF.svg?style=for-the-badge&logo=figma&logoColor=white)
 	
 ## 🎞️ Video Editing Tools:	
 
@@ -53,6 +54,7 @@
 ## 📋 Languages:
 	
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-.NET-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -69,6 +71,7 @@
 ![Reactjs](https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/nodejs-%215732.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-.NET-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 
 
