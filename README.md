@@ -30,7 +30,7 @@
 
 <br></br>
 - 👋 Hi, I’m Imesh
-- 💻 I'm Associate Software Engineer at Mitra Innovation
+- 💻 I'm Associate Engineer at Mitra Innovation
 - 💼 I'm an Undergraduate Student at SLIIT	
 - 📱 UI/UX Designer
 - 🎞️ Video Editor
