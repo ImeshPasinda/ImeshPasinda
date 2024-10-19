@@ -85,6 +85,7 @@
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-007FFF?style=for-the-badge&logo=azure&logoColor=white)
 
 ## 🗄️ Servers:
 
