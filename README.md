@@ -19,13 +19,12 @@
    <a href="https://www.linkedin.com/in/imeshpasinda" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
+   <a href="https://www.youtube.com/imexn19" target="_blank">
+    <img alt="YouTube" src="https://img.shields.io/badge/-YouTube-DD1200?style=for-the-badge&logo=YouTube&logoColor=white">
+  </a>
    <a href="https://stackoverflow.com/users/17079543/imesh-pasinda" target="_blank">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a>  
-	
- <a href="#" target="_blank">
-    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-  </a>
   
 
 <br></br>
