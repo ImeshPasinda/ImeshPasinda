@@ -60,17 +60,27 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Express](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Reactjs](https://img.shields.io/badge/reactjs-0069b1.svg?style=for-the-badge&logo=react&logoColor=white)
+![Nodejs](https://img.shields.io/badge/nodejs-%215732.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-196bd4.svg?style=for-the-badge&logo=Dart&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-DD1200.svg?style=for-the-badge&logo=angular&logoColor=white)
 	
 ## 📚 Frameworks and Libraries:
 
-![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![Reactjs](https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-![Nodejs](https://img.shields.io/badge/nodejs-%215732.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MERN](https://img.shields.io/badge/MERN_STACK-4CAF50?style=for-the-badge&logo=react&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-196bd4.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-0069b1.svg?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+## 🛠️ DevOps/Tools:
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
 ## 💾 Databases:
@@ -83,9 +93,9 @@
 
 ## ☁️ Cloud Platforms:
 
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=AmazonWebServices&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-007FFF?style=for-the-badge&logo=azure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-007FFF?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ## 🗄️ Servers:
 
