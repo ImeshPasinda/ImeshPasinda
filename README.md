@@ -15,16 +15,20 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imeshpasinda)
 [![YouTube](https://img.shields.io/badge/YouTube-DD1200?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/imexn19)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17079543/imesh-pasinda)
-<br><br>
 
-- 👋 Hi, I’m Imesh
-- 💻 I'm a Software Engineer at Mitra Innovation	
-- 📱 UI/UX Designer
-- 🎞️ Video Editor
-- 💬 Talk to me about freelancing opportunities in software engineering
+<br>
+
+- 👋 Hi, I’m Imesh  
+- 💻 I'm a Software Engineer at Mitra Innovation  
+- 📱 UI/UX Designer  
+- 🎞️ Video Editor  
+- 💬 Talk to me about freelancing opportunities in software engineering  
 - 👯 I’m looking to collaborate on frontend & backend software engineering projects
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<br>
+
+<h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
+
 	
 ## 📱 UI/UX Design Tools:	
 
