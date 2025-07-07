@@ -8,34 +8,22 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+UI/UX+Designer;I'm+a+Video+Editor" /></a>
 	
 </p>
-   <a href="mailto:Imeshpasinda@gmail.com" target="_blank">
-    <img alt="Gamil" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-	
-   <a href="https://www.facebook.com/RealImexn19" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white">
-  </a>
-	
-   <a href="https://www.linkedin.com/in/imeshpasinda" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>   
-   <a href="https://www.youtube.com/imexn19" target="_blank">
-    <img alt="YouTube" src="https://img.shields.io/badge/-YouTube-DD1200?style=for-the-badge&logo=YouTube&logoColor=white">
-  </a>
-   <a href="https://stackoverflow.com/users/17079543/imesh-pasinda" target="_blank">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-  </a>  
-  
 
-<br></br>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Imeshpasinda@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/RealImexn19)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imexn19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imeshpasinda)
+[![YouTube](https://img.shields.io/badge/YouTube-DD1200?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/imexn19)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17079543/imesh-pasinda)
+<br><br>
+
 - 👋 Hi, I’m Imesh
-- 💻 I'm Associate Engineer at Mitra Innovation
+- 💻 I'm a Software Engineer at Mitra Innovation
 - 💼 I'm an Undergraduate Student at SLIIT	
 - 📱 UI/UX Designer
 - 🎞️ Video Editor
 - 💬 Talk to me about freelancing opportunities in software engineering
 - 👯 I’m looking to collaborate on frontend & backend software engineering projects
-  <br></br>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 	
@@ -76,6 +64,7 @@
 ![React Native](https://img.shields.io/badge/react_native-0069b1.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ## 🛠️ DevOps/Tools:
 
