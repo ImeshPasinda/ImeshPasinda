@@ -143,12 +143,8 @@
 
 <div align="center">
 
-<a href="https://github.com/SriPass/SriPass-WEB-APP" style="text-decoration:none">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ImeshPasinda&repo=SriPass-WEB-APP&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/ImeshPasinda/Ayurveda" style="text-decoration:none">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ImeshPasinda&repo=Ayurveda&theme=tokyonight&hide_border=true"/>
-</a>
+[![SriPass](https://github-readme-stats-fast.vercel.app/api/pin/?username=ImeshPasinda&repo=SriPass-WEB-APP&theme=tokyonight&hide_border=true)](https://github.com/SriPass/SriPass-WEB-APP)
+[![Ayurveda](https://github-readme-stats-fast.vercel.app/api/pin/?username=ImeshPasinda&repo=Ayurveda&theme=tokyonight&hide_border=true)](https://github.com/ImeshPasinda/Ayurveda)
 
 </div>
 
