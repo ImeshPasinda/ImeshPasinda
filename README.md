@@ -74,6 +74,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+## 🤖 AI Tools & Assistants:
+
+![Cursor](https://img.shields.io/badge/Cursor-000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20AI-FFB000.svg?style=for-the-badge&logo=anthropic&logoColor=black)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 ## 💾 Databases:
 
@@ -149,5 +155,3 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=ImeshPasinda&repo=Ayurveda&theme=onedark" />
 </a>  
-	
-	
