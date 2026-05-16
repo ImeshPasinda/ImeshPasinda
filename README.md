@@ -132,12 +132,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImeshPasinda&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImeshPasinda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ImeshPasinda&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=ImeshPasinda&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -147,11 +143,11 @@
 
 <div align="center">
 
-<a href="https://github.com/SriPass/SriPass-WEB-APP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImeshPasinda&repo=SriPass-WEB-APP&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<a href="https://github.com/SriPass/SriPass-WEB-APP" style="text-decoration:none">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ImeshPasinda&repo=SriPass-WEB-APP&theme=tokyonight&hide_border=true"/>
 </a>
-<a href="https://github.com/ImeshPasinda/Ayurveda">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImeshPasinda&repo=Ayurveda&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<a href="https://github.com/ImeshPasinda/Ayurveda" style="text-decoration:none">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ImeshPasinda&repo=Ayurveda&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
